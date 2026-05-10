@@ -2,7 +2,9 @@
 //  高校盃電競錦標賽  ──  Google Apps Script  完整自動化腳本
 //  Esports Tournament Registration Management System
 //
-//  作者/Author: 臺北城市科技大學 電腦與通訊工程系 城市狂蜂幕後團隊
+//  作者/Author: f0nazj
+//  GitHub: [github.com/f0nazj](https://github.com/f0nazj)
+//
 //  版本/Version: v6 Final
 //
 // ================================================================
