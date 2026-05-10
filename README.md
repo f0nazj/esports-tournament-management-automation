@@ -165,6 +165,5 @@ This project is open source. Feel free to use and modify it for your own tournam
 
 ## 👥 Author
 
-臺北城市科技大學 電腦與通訊工程系 城市狂蜂幕後團隊  
-Taipei City University of Science and Technology — Department of Computer and Communication Engineering  
-City Crazy Wasp Backstage Team
+**f0nazj**  
+GitHub: [github.com/f0nazj](https://github.com/f0nazj)
